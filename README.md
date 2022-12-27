@@ -1,2 +1,0 @@
-# ytProject
-YouTube Gallery Project
